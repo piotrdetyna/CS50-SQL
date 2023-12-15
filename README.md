@@ -26,7 +26,7 @@ The course lasts **7 weeks, each including 1-2 hours of lecture and 2-4 problems
 
 
 
-## Week 0. Quering
+## Week 0. Querying
 I have learned: Tables, Databases, Database Management Systems, SQL, SQLite, SELECT, LIMIT, OFFSET, WHERE, Comparisons, NOT, NULL, Pattern Matching, LIKE, Compound Conditions, Range Conditions, Ordering, Aggregate Functions, ROUND, DISTINCT.
 
 ![Week 0](https://piotr.detyna.pl/cs50-sql/week-0/main.jpg?)
