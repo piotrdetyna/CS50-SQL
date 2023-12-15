@@ -6,6 +6,7 @@ Utilizing the dese.db database, students must answer questions about the state's
 It contains several tables, including districts, schools, graduation_rates, expenditures, and staff_evaluations, each providing specific data like district and school names, graduation rates, per-pupil expenditure, and staff evaluation metrics. 
 
 See full problem: [https://cs50.harvard.edu/sql/2023/psets/1/dese/](https://cs50.harvard.edu/sql/2023/psets/1/dese/)
+
 ![DESE](https://piotr.detyna.pl/cs50-sql/week-1/dese.png)
 
 ## Schema

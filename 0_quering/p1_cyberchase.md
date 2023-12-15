@@ -3,19 +3,20 @@
 The assignment "Cyberchase" from CS50's Introduction to Databases with SQL involves exploring a database named cyberchase.db, which contains a table called episodes. This table includes columns such as id, season, episode_in_season, title, topic, air_date, and production_code, representing various details of episodes from the animated series "Cyberchase"​. 
 
 See full problem: [https://cs50.harvard.edu/sql/2023/psets/0/cyberchase](https://cs50.harvard.edu/sql/2023/psets/0/cyberchase)
-![Cyberchase](https://piotr.detyna.pl/cs50-sql/week-0/cyberchase.jpg)
+
+<img src="https://piotr.detyna.pl/cs50-sql/week-0/cyberchase.jpg" alt="Cyberchase" style="width: 50%">
 
 ## Schema
 - **episodes** table:
-  - **id**, which uniquely identifies each row (episode) in the table
-  - **season**, which is the season number in which the episode aired
-  - **episode_in_season**, which is the episode’s number within its given season
-  - **title**, which is the episode’s title
-  - **topic**, which identifies the ideas the episode aimed to teach
-  - **air_date**, which is the date (expressed as YYYY-MM-DD) on which the episode “aired” (i.e., was published)
-  - **production_code**, which is the unique ID used by PBS to refer to each episode internally
+  - `id`, which uniquely identifies each row (episode) in the table
+  - `season`, which is the season number in which the episode aired
+  - `episode_in_season`, which is the episode’s number within its given season
+  - `title`, which is the episode’s title
+  - `topic`, which identifies the ideas the episode aimed to teach
+  - `air_date`, which is the date (expressed as YYYY-MM-DD) on which the episode “aired” (i.e., was published)
+  - `production_code`, which is the unique ID used by PBS to refer to each episode internally
 
-##
+## Specification and my solutions
 - In 1.sql, write a SQL query to list the titles of all episodes in Cyberchase’s original season, Season 1.
     ```
     SELECT title

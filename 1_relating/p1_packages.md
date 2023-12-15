@@ -4,7 +4,8 @@ The "Packages, Please" assignment in CS50's Introduction to Databases with SQL s
 The database encompasses entities such as drivers, packages, addresses, and package scans, with tables like addresses, drivers, packages, and scans that store relevant data.
 
 See full problem: [https://cs50.harvard.edu/sql/2023/psets/1/packages/](https://cs50.harvard.edu/sql/2023/psets/1/packages/)
-![Packages](https://piotr.detyna.pl/cs50-sql/week-1/packages.png)
+
+<img src="https://piotr.detyna.pl/cs50-sql/week-1/packages.png" alt="packages" style="width: 50%">
 
 ## Schema
 - **addresses table**

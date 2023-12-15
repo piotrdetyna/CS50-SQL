@@ -5,7 +5,8 @@ The "Moneyball" assignment in CS50's Introduction to Databases with SQL is based
 The database includes tables for players, teams, performances, and salaries, detailing various aspects like player ID, team name, types of hits, and salary amounts. Students are tasked with writing SQL queries using this database to uncover valuable players that may be overlooked by others.
 
 See full problem: [https://cs50.harvard.edu/sql/2023/psets/1/moneyball/](https://cs50.harvard.edu/sql/2023/psets/1/moneyball/)
-![Moneyball](https://piotr.detyna.pl/cs50-sql/week-1/moneyball.png)
+
+<img src="https://piotr.detyna.pl/cs50-sql/week-1/moneyball.png" alt="Moneyball" style="width: 50%">
 
 ## Schema
 - **players table**

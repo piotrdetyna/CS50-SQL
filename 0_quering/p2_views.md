@@ -4,19 +4,21 @@ The "36 Views" assignment focuses on exploring views.db, a database containing i
 The database's single table, views, includes columns like print_number, english_title, japanese_title, artist, average_color, brightness, contrast, and entropy, providing detailed data on each print
 
 See full problem: [https://cs50.harvard.edu/sql/2023/psets/0/views/](https://cs50.harvard.edu/sql/2023/psets/0/views/)
-![Views](https://piotr.detyna.pl/cs50-sql/week-0/views.jpeg)
+
+<img src="https://piotr.detyna.pl/cs50-sql/week-0/views.jpeg" alt="Views" style="width: 50%">
+
 
 ## Schema
 - **views** table:
-  - **id**, which uniquely identifies each row (print) in the table
-  - **print_number**, which identifies the number of the print in either Hokusai’s or Hiroshige’s series
-  - **english_title**, which is the English title of the print
-  - **japanese_title**, which is the Japanese title of the print
-  - **artist**, which is the last name of the print’s artist
-  - **average_color**, which is the hexadecimal representation of the color found by averaging the colors of each pixel in the image
-  - **brightness**, which is a number corresponding to the overall lightness or darkness of the image
-  - **contrast**, which is a number representing the extent of the difference between light and dark areas of the image
-  - **entropy**, which is a measure used to quantify the complexity of the artwork
+  - `id`, which uniquely identifies each row (print) in the table
+  - `print_number`, which identifies the number of the print in either Hokusai’s or Hiroshige’s series
+  - `english_title`, which is the English title of the print
+  - `japanese_title`, which is the Japanese title of the print
+  - `artist`, which is the last name of the print’s artist
+  - `average_color`, which is the hexadecimal representation of the color found by averaging the colors of each pixel in the image
+  - `brightness`, which is a number corresponding to the overall lightness or darkness of the image
+  - `contrast`, which is a number representing the extent of the difference between light and dark areas of the image
+  - `entropy`, which is a measure used to quantify the complexity of the artwork
 
 ## Specification and my solutions
 - In 1.sql, write a SQL query that a translator might take interest in: list, side by side, the Japanese title and the English title for each print. Ensure the Japanese title is the first column, followed by the English title.

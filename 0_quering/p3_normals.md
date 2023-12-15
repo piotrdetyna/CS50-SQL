@@ -4,16 +4,18 @@ This table includes climate data for various global coordinates, detailing norma
 
 
 See full problem: [https://cs50.harvard.edu/sql/2023/psets/0/normals/](https://cs50.harvard.edu/sql/2023/psets/0/normals/)
-![Views](https://piotr.detyna.pl/cs50-sql/week-0/normals.jpg)
+
+<img src="https://piotr.detyna.pl/cs50-sql/week-0/normals.jpg" alt="Views" style="width: 50%">
+
 
 ## Schema
 - **normals** table:
-  - **id**, which uniquely identifies each row (coordinate) in the table
-  - **latitude**, which is the degree of latitude (expressed in decimal format) for the coordinate
-  - **longitude**, which is the degree of longitude (expressed in decimal format) for the coordinate
-  - **0m**, which is the normal ocean surface temperature (i.e., the normal temperature at 0 meters of depth), in degrees Celsius, at the coordinate
-  - **5m**, which is the normal ocean temperature at 5 meters of depth, in degrees Celsius, at the coordinate
-  - **10m**, which is the normal ocean temperature at 10 meters of depth, in degrees Celsius, at the coordinate
+  - `id`, which uniquely identifies each row (coordinate) in the table
+  - `latitude`, which is the degree of latitude (expressed in decimal format) for the coordinate
+  - `longitude`, which is the degree of longitude (expressed in decimal format) for the coordinate
+  - `0m`, which is the normal ocean surface temperature (i.e., the normal temperature at 0 meters of depth), in degrees Celsius, at the coordinate
+  - `5m`, which is the normal ocean temperature at 5 meters of depth, in degrees Celsius, at the coordinate
+  - `10m`, which is the normal ocean temperature at 10 meters of depth, in degrees Celsius, at the coordinate
 
 
 ## Specification and my solutions
