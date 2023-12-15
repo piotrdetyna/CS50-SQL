@@ -23,9 +23,6 @@ The course lasts **7 weeks, each including 1-2 hours of lecture and 2-4 problems
 - Week 5. **Optimizing**
 - Week 6. **Scaling**
 
-
-
-
 ## Week 0. Querying
 I have learned: Tables, Databases, Database Management Systems, SQL, SQLite, SELECT, LIMIT, OFFSET, WHERE, Comparisons, NOT, NULL, Pattern Matching, LIKE, Compound Conditions, Range Conditions, Ordering, Aggregate Functions, ROUND, DISTINCT.
 
@@ -87,6 +84,47 @@ The "Moneyball" assignment is based on the 2001 Oakland Athletics baseball team'
 The database includes tables for players, teams, performances, and salaries, detailing various aspects like player ID, team name, types of hits, and salary amounts. Students are tasked with writing SQL queries using this database to uncover valuable players that may be overlooked by others
 
 [Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/1_relating/p3_moneyball.md)
+
+
+## Week 2. Designing
+I have learned: Schemas. Normalizing. Data Types. Storage Classes. Type Affinities. Table Constraints: PRIMARY KEY, FOREIGN KEY. Column Constraints: CHECK, DEFAULT, NOT NULL, UNIQUE. Altering Tables: DROP TABLE, ALTER TABLE, ADD COLUMN, RENAME COLUMN, DROP COLUMN. Charlie.
+
+![Week 2](https://piotr.detyna.pl/cs50-sql/week-2/main.jpg?)
+
+### Problem set
+I also liked these tasks because they showed real-life examples and I had to deal with real problems.
+
+#### ATL
+The "ATL" assignment involves designing a database system for Hartsfield-Jackson International Airport (ATL), the world's busiest airport since 1998. Students are tasked with creating a SQLite database from scratch, writing CREATE TABLE statements in a schema.sql file. The database must track essential information about passengers (name and age), check-ins (date, time, and flight), airlines (name and concourse location), and flights (number, operating airline, departure and arrival airports, and times).
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/2_designing/p1_atl.md)
+
+#### ATL
+The "ATL" assignment involves designing a database system for Hartsfield-Jackson International Airport (ATL), the world's busiest airport since 1998. Students are tasked with creating a SQLite database from scratch, writing CREATE TABLE statements in a schema.sql file. The database must track essential information about passengers (name and age), check-ins (date, time, and flight), airlines (name and concourse location), and flights (number, operating airline, departure and arrival airports, and times).
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/2_designing/p1_atl.md)
+
+#### Happy to Connect
+
+The "Happy to Connect" assignment involves creating a database for LinkedIn. Students are required to write a set of CREATE TABLE statements in a schema.sql file to design this database from scratch. 
+
+The database must include information about LinkedIn users (their names, usernames, and passwords), educational institutions (names, types, locations), companies (names, industries, locations), and connections between people, schools, and companies. This involves storing data about mutual connections between users, affiliations with schools and companies, and details like start and end dates of affiliations, degree types, and job titles.
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/2_designing/p2_connect.md)
+
+
+#### Union Square Donuts
+
+The "Donuts" assignment in CS50's Introduction to Databases with SQL involves designing a database for Union Square Donuts. Students must create this database from scratch, using CREATE TABLE statements in a schema.sql file. 
+
+The database is required to manage various aspects of the donut shop's operations, including tracking ingredients and their prices, details of donuts (name, gluten-free status, price), recording online orders (order numbers, donuts ordered, and customer information), and maintaining customer data (names and order history). The focus is on fulfilling the shop's operational needs and representing sample data provided in the assignment.
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/2_designing/p3_donuts.md)
+
+
+
+
+
 
 
 
