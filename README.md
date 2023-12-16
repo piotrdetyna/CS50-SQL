@@ -141,3 +141,36 @@ The "Meteorite Cleaning" assignment in CS50's Introduction to Databases with SQL
 
 [Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/3_writing/p2_meteorites.md)
 
+
+
+## Week 4. Viewing  
+I have learned: Views. CREATE VIEW. Views for Simplifying. Views for Aggregating. Temporary Views. CREATE TEMPORARY VIEW. Common Table Expressions. Views for Partitioning. Views for Securing. Soft Deletions.
+
+
+![Week 4](https://piotr.detyna.pl/cs50-sql/week-4/main.jpg?)
+
+### Problem set
+
+#### Census Taker
+
+The "Census Taker" assignment in CS50's Introduction to Databases with SQL puts students in the role of a census taker for the Nepali government. The task involves processing data into views that can be used for governmental record-keeping. 
+
+The census table within the database contains columns like id, district, locality, families, households, population, male, and female, each providing crucial census data. The assignment focuses on writing SQL statements to create views of this data for effective analysis and record-keeping​
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/4_viewing/p1_census.md)
+
+#### The Private Eye
+
+The "Private Eye" assignment in CS50's Introduction to Databases with SQL involves a detective-themed challenge where students must decode a cipher.
+
+The main task is to decode a cipher left by a detective, creating a view named message in the database. This view should have a single column, phrase, which, when queried, reveals phrases of the message. Students need to write all necessary SQL statements in private.sql to replicate the creation of this view, including creating any additional tables and inserting data as needed.
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/4_viewing/p2_private.md)
+
+#### Bed and Breakfast
+
+The "Bed and Breakfast" assignment in CS50's Introduction to Databases with SQL involves analyzing the influence of AirBnB on Boston's tourism industry. Students are tasked with developing views within the bnb.db database, requiring them to download this database along with several .sql files for query writing. 
+
+They must create views to portray various aspects of AirBnB's impact, such as listing details without descriptions, properties with one bedroom, availability data, most frequently reviewed listings, and vacancies in June 2023. The assignment is focused on providing insights into AirBnB's role in altering local accommodation dynamics.
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/4_viewing/p3_bnb.md)
