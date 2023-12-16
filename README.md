@@ -174,3 +174,20 @@ The "Bed and Breakfast" assignment in CS50's Introduction to Databases with SQL 
 They must create views to portray various aspects of AirBnB's impact, such as listing details without descriptions, properties with one bedroom, availability data, most frequently reviewed listings, and vacancies in June 2023. The assignment is focused on providing insights into AirBnB's role in altering local accommodation dynamics.
 
 [Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/4_viewing/p3_bnb.md)
+
+
+
+## Week 5. Optimizing  
+I have learned: Indexes. CREATE INDEX. EXPLAIN QUERY PLAN. Covering Indexes. B-Trees. Partial Indexes. VACUUM. Concurrency. Transactions. ACID: Atomicity, Consistency, Isolation, Durability. BEGIN TRANSACTION. COMMIT. ROLLBACK. Race Conditions. Locks.
+
+![Week 5](https://piotr.detyna.pl/cs50-sql/week-5/main.jpg)
+
+### Problem set
+
+#### your.harvard
+
+The "your.harvard" assignment in CS50's Introduction to Databases with SQL challenges students to improve the performance of Harvard's course shopping tool, my.harvard, by optimizing a database. Students need to download harvard.db and an indexes.sql file, where they will write SQL statements to create indexes. The database includes tables like students, courses, enrollments, requirements, and satisfies, each containing various relevant columns.
+
+The task involves creating indexes that speed up typical queries on the database, considering the balance between speed and disk space, and ensuring the efficient representation of Harvard's courses and students
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/5_optimizing/p1_harvard.md)
