@@ -2,6 +2,7 @@
 After completing (in one year!) the CS50x, CS50AI, CS50WEB and CS50CYBERSECURITY courses, I took the **CS50's Introduction to Databases with SQL** course. As with other courses offered by Harvard, it was a fascinating and enjoyable adventure. I learned many of the most important issues related to designing, managing, optimizing and scaling databases.
 
 See more details: _https://cs50.harvard.edu/sql/2023/_
+
 ![Course header image](https://piotr.detyna.pl/cs50-sql/main.png)
 ## Course overview
 
@@ -99,11 +100,6 @@ The "ATL" assignment involves designing a database system for Hartsfield-Jackson
 
 [Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/2_designing/p1_atl.md)
 
-#### ATL
-The "ATL" assignment involves designing a database system for Hartsfield-Jackson International Airport (ATL), the world's busiest airport since 1998. Students are tasked with creating a SQLite database from scratch, writing CREATE TABLE statements in a schema.sql file. The database must track essential information about passengers (name and age), check-ins (date, time, and flight), airlines (name and concourse location), and flights (number, operating airline, departure and arrival airports, and times).
-
-[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/2_designing/p1_atl.md)
-
 #### Happy to Connect
 
 The "Happy to Connect" assignment involves creating a database for LinkedIn. Students are required to write a set of CREATE TABLE statements in a schema.sql file to design this database from scratch. 
@@ -123,8 +119,25 @@ The database is required to manage various aspects of the donut shop's operation
 
 
 
+## Week 3. Writing
+I have learned: Create, Read, Update, Delete. INSERT INTO. CSVs. .import. DELETE FROM. Foreign Key Constraints. UPDATE. Triggers. Soft Deletions.
 
 
+![Week 3](https://piotr.detyna.pl/cs50-sql/week-3/main.jpg?)
+
+### Problem set
+From these tasks, I learned more about importing from CSV, data cleansing, and more.
 
 
+#### Don't Panic!
+The "Don't Panic!" assignment in CS50's Introduction to Databases with SQL casts students in the role of a "pentester" (penetration tester) tasked with testing the security of a SQLite database that powers a website. 
+
+The assignment involves a series of covert operations, including altering the administrative account's password, erasing any logs of this password change, and adding false data to mislead the company. 
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/3_writing/p1_dont_panic.md)
+
+#### Meteorite Cleaning
+The "Meteorite Cleaning" assignment in CS50's Introduction to Databases with SQL involves working as a data engineer at NASA, focusing on cleaning data from a CSV file of historical meteorite landings on Earth. The task is to import this data into a SQLite database named meteorites.db, cleaning it in the process. Students need to download meteorites.csv and an import.sql file for writing SQL statements to clean the CSV data.
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/3_writing/p2_meteorites.md)
 
