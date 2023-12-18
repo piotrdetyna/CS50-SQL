@@ -191,3 +191,7 @@ The "your.harvard" assignment in CS50's Introduction to Databases with SQL chall
 The task involves creating indexes that speed up typical queries on the database, considering the balance between speed and disk space, and ensuring the efficient representation of Harvard's courses and students
 
 [Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/5_optimizing/p1_harvard.md)
+
+
+## Week 6. Scaling  
+I have learned: Scalability. MySQL: Integers, Strings, Dates, Times, Real Numbers, Floating-Point Imprecision, Fixed Precision, Altering Tables. Stored Procedures. PostgreSQL. Vertical Scaling. Horizontal Scaling. Replication. Read Replicas. Sharding. Access Controls: GRANT, REVOKE. SQL Injection Attacks. Prepared Statements.
