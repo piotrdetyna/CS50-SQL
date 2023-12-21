@@ -195,3 +195,25 @@ The task involves creating indexes that speed up typical queries on the database
 
 ## Week 6. Scaling  
 I have learned: Scalability. MySQL: Integers, Strings, Dates, Times, Real Numbers, Floating-Point Imprecision, Fixed Precision, Altering Tables. Stored Procedures. PostgreSQL. Vertical Scaling. Horizontal Scaling. Replication. Read Replicas. Sharding. Access Controls: GRANT, REVOKE. SQL Injection Attacks. Prepared Statements.
+
+![Week 6](https://piotr.detyna.pl/cs50-sql/week-6/main.jpg?)
+
+### Problem set
+
+#### Happy to Connect (Sentimental)
+
+The "Happy to Connect" assignment in CS50's Introduction to Databases with SQL involves creating a MySQL database schema for LinkedIn. The task requires designing a database from scratch, where students must write SQL statements in a file called schema.sql in the sentimental-connect folder. The database should accurately represent LinkedIn's users, schools, companies, and their connections. The connections include user affiliations with schools and companies, including start and end dates, and types of degrees or job titles held.
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/6_scaling/p1_connect.md)
+
+#### Don’t Panic! (Sentimental) with Python
+
+The "Don’t Panic!" assignment in CS50's Introduction to Databases with SQL involves a scenario where students, as trained penetration testers, are hired to assess and report vulnerabilities in a data system. This iteration of the assignment requires **writing a Python program to automate the hacking process**. The key tasks are to connect to a SQLite database (dont-panic.db) using Python and alter the administrator’s password within the Python program.
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/6_scaling/p2_dont_panic_python.md)
+
+#### Don’t Panic! (Sentimental) with Java
+
+The "Don’t Panic!" assignment in CS50's Introduction to Databases with SQL, Java version, puts students in the role of a pentester hired to test and report vulnerabilities in a company's data system. Students are tasked with automating their hack by writing a Java program. The main objectives include connecting to a SQLite database (dont-panic.db) using Java and **altering the administrator’s password within the Java program**.
+
+[Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/6_scaling/p3_dont_panic_java.md)
