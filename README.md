@@ -1,7 +1,51 @@
-# Harvard CS50’s Introduction to Databases with SQL
+
+# Harvard CS50’s Introduction to Databases with SQL 
 After completing (in one year!) the CS50x, CS50AI, CS50WEB and CS50CYBERSECURITY courses, I took the **CS50's Introduction to Databases with SQL** course. As with other courses offered by Harvard, it was a fascinating and enjoyable adventure. I learned many of the most important issues related to designing, managing, optimizing and scaling databases.
 
 See more details: _https://cs50.harvard.edu/sql/2023/_
+
+**Table of Contents:**
+- [Harvard CS50’s Introduction to Databases with SQL](#harvard-cs50s-introduction-to-databases-with-sql)
+  - [Course overview](#course-overview)
+    - [Course program](#course-program)
+  - [Week 0. Querying](#week-0-querying)
+    - [Problem set](#problem-set)
+      - [Cyberchase](#cyberchase)
+      - [36 Views](#36-views)
+      - [Normals](#normals)
+      - [Players](#players)
+  - [Week 1. Relating](#week-1-relating)
+    - [Problem set](#problem-set-1)
+      - [Packages, Please](#packages-please)
+      - [DESE](#dese)
+      - [Moneyball](#moneyball)
+  - [Week 2. Designing](#week-2-designing)
+    - [Problem set](#problem-set-2)
+      - [ATL](#atl)
+      - [Happy to Connect](#happy-to-connect)
+      - [Union Square Donuts](#union-square-donuts)
+  - [Week 3. Writing](#week-3-writing)
+    - [Problem set](#problem-set-3)
+      - [Don't Panic!](#dont-panic)
+      - [Meteorite Cleaning](#meteorite-cleaning)
+  - [Week 4. Viewing](#week-4-viewing)
+    - [Problem set](#problem-set-4)
+      - [Census Taker](#census-taker)
+      - [The Private Eye](#the-private-eye)
+      - [Bed and Breakfast](#bed-and-breakfast)
+  - [Week 5. Optimizing](#week-5-optimizing)
+    - [Problem set](#problem-set-5)
+      - [your.harvard](#yourharvard)
+  - [Week 6. Scaling](#week-6-scaling)
+    - [Problem set](#problem-set-6)
+      - [Happy to Connect (Sentimental)](#happy-to-connect-sentimental)
+      - [Don’t Panic! (Sentimental) with Python](#dont-panic-sentimental-with-python)
+      - [Don’t Panic! (Sentimental) with Java](#dont-panic-sentimental-with-java)
+  - [Final Project](#final-project)
+
+
+
+
 
 ![Course header image](https://piotr.detyna.pl/cs50-sql/main.png)
 ## Course overview
@@ -217,3 +261,8 @@ The "Don’t Panic!" assignment in CS50's Introduction to Databases with SQL inv
 The "Don’t Panic!" assignment in CS50's Introduction to Databases with SQL, Java version, puts students in the role of a pentester hired to test and report vulnerabilities in a company's data system. Students are tasked with automating their hack by writing a Java program. The main objectives include connecting to a SQLite database (dont-panic.db) using Java and **altering the administrator’s password within the Java program**.
 
 [Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/6_scaling/p3_dont_panic_java.md)
+
+## Final Project
+I had to build something that was of interest to me, something that solved a substantive problem, positively impacted others, or changed the world. I strive to create something I am proud of.
+
+[See the project](https://github.com/piotrdetyna/CS50-SQL/blob/master/final_project/DESIGN.md)
