@@ -8,6 +8,7 @@ See more details: _https://cs50.harvard.edu/sql/2023/_
 - [Harvard CS50’s Introduction to Databases with SQL](#harvard-cs50s-introduction-to-databases-with-sql)
   - [Course overview](#course-overview)
     - [Course program](#course-program)
+  - [My certficate](#my-certficate)
   - [Week 0. Querying](#week-0-querying)
     - [Problem set](#problem-set)
       - [Cyberchase](#cyberchase)
@@ -67,6 +68,10 @@ The course lasts **7 weeks, each including 1-2 hours of lecture and 2-4 problems
 - Week 4. **Viewing**
 - Week 5. **Optimizing**
 - Week 6. **Scaling**
+
+## My certficate
+![Certificate](https://piotr.detyna.pl/cs50-sql/certificate.png)
+[https://cs50.harvard.edu/certificates/a2486d38-0691-4f29-8600-c72061427a48](https://cs50.harvard.edu/certificates/a2486d38-0691-4f29-8600-c72061427a48)
 
 ## Week 0. Querying
 I have learned: Tables, Databases, Database Management Systems, SQL, SQLite, SELECT, LIMIT, OFFSET, WHERE, Comparisons, NOT, NULL, Pattern Matching, LIKE, Compound Conditions, Range Conditions, Ordering, Aggregate Functions, ROUND, DISTINCT.
@@ -262,6 +267,7 @@ The "Don’t Panic!" assignment in CS50's Introduction to Databases with SQL, Ja
 
 [Read more and see my queries](https://github.com/piotrdetyna/CS50-SQL/blob/master/6_scaling/p3_dont_panic_java.md)
 
+![Final Project](https://piotr.detyna.pl/cs50-sql/final-project/main.jpg?)
 ## Final Project
 I had to build something that was of interest to me, something that solved a substantive problem, positively impacted others, or changed the world. I strive to create something I am proud of.
 
